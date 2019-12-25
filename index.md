@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Daily Shoe Matching Record Tool
 
-You can use the [editor on GitHub](https://github.com/sunkin520/DailyShoeMatchingRecordTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a tool to record the daily matching of shoes. When you wake up in the morning and rush to work but have no time to choose the right shoes to go out, you can use this tool to help you manage your daily life.
+When you are worried about what shoes to wear today, you can keep track of the shoes you need to match every day, the materials of the shoes, the comfort and feeling after wearing the shoes and so on. You can collect your favorite shoe matching records to help you quickly find the best way to match your shoes. You can also add good memories to your shoe records to help you live a productive life.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-```markdown
-Syntax highlighted code block
+We will answer them for you in the first time.
 
-# Header 1
-## Header 2
-### Header 3
+### Address: sun778297ma@163.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunkin520/DailyShoeMatchingRecordTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
